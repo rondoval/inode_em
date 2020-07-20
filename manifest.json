@@ -1,1 +1,8 @@
-
+{
+  "domain": "inode_em",
+  "name": "iNode Energy Meter BLE integration",
+  "documentation": "https://github.com/rondoval/inode_em",
+  "dependencies": [],
+  "codeowners": [ "@rondoval" ],
+  "requirements": []
+}
